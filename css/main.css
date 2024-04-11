@@ -267,6 +267,11 @@ No media query for `xs` since this is the default in Bootstrap*/
         margin-bottom: 24.9px;
     }
 
+    .div_form {
+        width: 90%;
+    }
+    
+
     .form_cells {
         width: 90%;
     }
